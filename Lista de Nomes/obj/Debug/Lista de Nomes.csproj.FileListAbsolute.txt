@@ -1,0 +1,7 @@
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\bin\Debug\Lista de Nomes.exe.config
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\bin\Debug\Lista de Nomes.exe
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\bin\Debug\Lista de Nomes.pdb
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.AssemblyReference.cache
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\obj\Debug\Lista de Nomes.exe
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Lista de Nomes\obj\Debug\Lista de Nomes.pdb
